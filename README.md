@@ -3,7 +3,6 @@
 The aim is to develop a quick way to detect the nCov 2019 (Coronavirus 2019/2020, also called disease: "Covid-19" stemming from virus: ["SARS-CoV-2"](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it)) strain, with the plan to use artificial neural networks or other machine learning model types.
 
 
-As this is the first known attempt, [commencing on January 29 2020](https://github.com/JordanMicahBennett/SMART-CORONA_VIRUS_DETECTOR/commit/49984b40847eb168800f0874bae7f8a0f2e20991) aimed at collaborating to construct this type of program, please point to open source packages with similar goals. Please email jordanmicahbennett@gmail.com.
 
 * This can also reasonably allow for less experienced medical personnel to make preliminary diagnoses, expanding the diagnosis efforts overall. This effort may contribute towards virus-control progress, together with [other ai based endeavours being developed across the globe, such as use of ai for vaccine development.](https://www.facebook.com/ProgrammingGodJordan/posts/876578989467795)
 
