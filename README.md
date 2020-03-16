@@ -123,20 +123,4 @@ Note that despite the ~900+ infection-case number reported via China on January 
 
 
 
-# COVID-19 AI DATA/CALL ON THE MINISTRY OF HEALTH 
-
-I call on the [Ministry of Health of Jamaica](https://www.moh.gov.jm/) (as well as other countries) to utilize their administrative status to try to acquire more covid19 positive CT scan images (in federated format that excludes patient identity), from China etc, for improving pneumonia based ai systems, [like the one that I had prepared since February 9, 2020](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md), which I found to successfully detect covid19 presence in a small covid-19 positive CT scan sample set found online so far, [in a paper by Yuen et al](https://pubs.rsna.org/doi/full/10.1148/ryct.2020200034) etc.
-  * Alternatively, the Chinese artificial intelligence algorithm/solution together with the data could be attained using the same administrative method.
-  * In future scenarios, a "**_Division of Artificial Intelligence Based Health Development_**" or sector of artificial intelligence based research should reasonably exist in the Ministry of Health, that could enable Ai solutions to be rapidly researched/developed, to facilitate production of vaccines, and treatment, as seen in a recent example where [MIT developed antibiotics based on Ai research/development](https://www.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/).
-  
-My advice to Ministry of Health (February 17, 2020): https://drive.google.com/file/d/1dWdqlwUTM9ko8UXGyb8hBYOVOqHv-P_S/view?usp=sharing
-
-
-
-# Update March 5, 2020:
-1. [Jordan added fix to original author's repository](https://github.com/JohnChangUK/Pneumonia-Kaggle/issues/1), to enable correct validation. John Chang had inadvertently misdefined some "test_dataGen.flow_from_director" function parameter as a training dataset input, instead of a test dataset input.
-
-2. [Jordan updated his version of the original code](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/covid19_ai_diagnoser.py), such that a compile issue is repaired, in order to facilitate accuracy evaluation of the saved/loaded (in 2 minutes on gtx 1060/i7 cpu) model without invocation of model-training function **model.fit**, which would take hours on the same machine.
-
-
 Reference:https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md
