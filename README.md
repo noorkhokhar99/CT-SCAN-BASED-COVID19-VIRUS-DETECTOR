@@ -1,6 +1,5 @@
 
 # SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR
-The aim is to develop a quick way to detect the nCov 2019 (Coronavirus 2019/2020, also called disease: "Covid-19" stemming from virus: ["SARS-CoV-2"](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance/naming-the-coronavirus-disease-(covid-2019)-and-the-virus-that-causes-it)) strain, with the plan to use artificial neural networks or other machine learning model types.
 
 
 
